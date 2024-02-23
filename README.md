@@ -10,7 +10,7 @@
  </div>
 
   <div align="center">
-<video max-width="500" src= "https://github.com/Sam1536/Primeiro_Online_Jogo-/assets/89424721/ac9d8a54-a1af-44b3-abef-20d44852eccc"/>
+<Video max-width="500" src= "https://github.com/Sam1536/Primeiro_Online_Jogo-/assets/89424721/ac9d8a54-a1af-44b3-abef-20d44852eccc"/>
  </div>
 
  
