@@ -3,7 +3,7 @@
 
 
  <div align="center">
-<video max-width="800" src= "https://github.com/Sam1536/Primeiro_Online_Jogo-/assets/89424721/c36fe6a6-4cdf-4033-b4dd-6044949cfaf3"/>
+<video max-width="900" src= "https://github.com/Sam1536/Primeiro_Online_Jogo-/assets/89424721/c36fe6a6-4cdf-4033-b4dd-6044949cfaf3"/>
  </div>
 
 
